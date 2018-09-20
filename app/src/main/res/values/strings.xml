@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week2_Demo1</string>
+    <string name="tv_hello">Hello world</string>
+    <string name="btnsubmit">Submit</string>
+</resources>
